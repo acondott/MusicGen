@@ -1,6 +1,8 @@
 
 This is an Implementation of MidiNet by pytorch.
 
+Repo Sourced from: https://github.com/annahung31/MidiNet-by-pytorch
+
 MidiNet paper : https://arxiv.org/abs/1703.10847 
 
 MidiNet code  : https://github.com/RichardYang40148/MidiNet 
